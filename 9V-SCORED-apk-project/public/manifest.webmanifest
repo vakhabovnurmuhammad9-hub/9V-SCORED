@@ -1,0 +1,16 @@
+{
+  "name": "9-V SCORED",
+  "short_name": "9-V SCORED",
+  "description": "Sinf futbol statistikasi va tarkib boshqaruvi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b09",
+  "theme_color": "#080b09",
+  "icons": [
+    {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">9-V SCORED</string>
+    <!-- Saytingiz manzili (Render va h.k.). Oxirida / bo'lmasin. -->
+    <string name="app_url" translatable="false">https://CHANGE-ME.onrender.com</string>
+</resources>
